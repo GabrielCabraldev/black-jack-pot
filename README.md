@@ -1,0 +1,1 @@
+Estudo sobre as probabilidades de vitória no black jack, me baseando no artigo - "Game’s statistics: blackjack" dos autores : Fábio Pascoal dos Reis, Cristiano de Siqueira Esteves e Elisangela Aparecida y Castro do Brazilian Electronic Journal of Mathematics
